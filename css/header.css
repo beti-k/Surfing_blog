@@ -1,0 +1,47 @@
+.header_content {
+    background-image: url("../images/home_section1.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 829px;
+    border-bottom-left-radius: 210px;
+    border-bottom-right-radius: 210px;
+    padding: 24px 48px;
+}
+
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_ul {
+    display: flex;
+    gap: 46px;
+}
+
+.header-li-link {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 30px;
+    line-height: 117%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #000000;
+}
+
+.header_btn {
+    width: 177.7px;
+    height: 50px;
+    opacity: 1;
+    border-radius: 25px;
+    background-color: #000000;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 25px;
+    line-height: 117%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}

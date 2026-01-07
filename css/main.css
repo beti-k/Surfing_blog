@@ -1,0 +1,16 @@
+@import "../css/header.css";
+@import "../css/experience-sections.css";
+@import "../css/footer.css";
+@import "../css/responsive.css";
+
+
+body {
+  font-family: "DM Sans", "DM Serif Display", sans-serif;
+  background-color: #FFFBF4;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0;
+  padding: 0;
+}
