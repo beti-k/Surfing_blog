@@ -89,3 +89,51 @@
     color: #FFFFFF;
     margin-top: 30px;
 }
+
+.experience_section3 {
+    margin-top: 121px;
+    margin-left: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 45px;
+}
+
+.experience_section3_btn {
+    margin-top: 30px;
+    width: 198px;
+    height: 50px;
+    opacity: 1;
+    border-radius: 25px;
+    background-color: #14A998;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 25px;
+    line-height: 117%;
+    color: #FFFFFF;
+}
+
+.experience_section3_img_ {
+    width: 755px;
+    height: 678px;
+    opacity: 1;
+    border-top-left-radius: 300px;
+    border-bottom-left-radius: 300px;
+}
+
+.experience_blog_section {
+    margin: 106px 48px;
+}
+
+.experience_blog_section_heading {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 80px;
+    line-height: 117%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+
