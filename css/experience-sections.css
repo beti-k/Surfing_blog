@@ -136,4 +136,35 @@
     text-align: center;
 }
 
+.experience_items {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 80px;
+    margin-top: 80px;
+}
 
+.experience_blog_img {
+    border-radius: 30px;
+}
+
+.experience_blog_heading {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 30px;
+    line-height: 117%;
+    letter-spacing: 0%;
+    margin-top: 24px;
+}
+
+.experience_blog_p {
+    margin-top: 10px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 15px;
+    line-height: 117%;
+    letter-spacing: 0%;
+}
