@@ -1,0 +1,114 @@
+.camp_header_content {
+    background-image: url("../images/camp_section1.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 829px;
+    padding: 22px 48px;
+    border-bottom-left-radius: 210px;
+    border-bottom-right-radius: 210px;
+    position: relative;
+}
+
+.camp_header_nav_li-link {
+    color: #FFFFFF;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 30px;
+    line-height: 117%;
+    letter-spacing: 0%;
+}
+
+.camp_section1_heading {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 100px;
+    line-height: 117%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+
+.camp_section1_btn {
+    background-color: #CE822F;
+    margin-top: 65px;
+    width: 234px;
+    height: 67px;
+    opacity: 1;
+    border-radius: 33.5px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 30px;
+    line-height: 117%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+
+.camp_main_logo {
+    position: absolute;
+    bottom: -120px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.camp_section2 {
+    margin-top: 87px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 52px;
+    margin-right: 48px;
+}
+
+.camp_section2_img {
+    width: 683px;
+    height: 658px;
+    opacity: 1;
+    border-top-right-radius: 300px;
+    border-bottom-right-radius: 300px;
+}
+
+.camp_heading {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 80px;
+    line-height: 117%;
+    letter-spacing: 0%;
+}
+
+.camp_p {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 117%;
+    letter-spacing: 0%;
+}
+
+.camp_section3 {
+    margin-top: 80px;
+    margin-left: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 45px;
+}
+
+.camp_section3_btn {
+    width: 198px;
+    height: 50px;
+    opacity: 1;
+    border-radius: 25px;
+    margin-top: 30px;
+    background-color: #14A998;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 25px;
+    line-height: 117%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
