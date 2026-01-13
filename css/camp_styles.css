@@ -112,3 +112,24 @@
     letter-spacing: 0%;
     color: #FFFFFF;
 }
+
+.camp_section3_img- {
+    width: 755px;
+    height: 784px;
+    opacity: 1;
+    border-top-left-radius: 300px;
+    border-bottom-left-radius: 300px;
+}
+
+.camp_section4{
+    margin-top: 80px;
+    margin-right: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 52px;
+}
+
+
+
+
