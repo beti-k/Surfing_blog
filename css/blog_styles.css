@@ -112,7 +112,6 @@
     font-weight: 400;
     font-style: Regular;
     font-size: 20px;
-    leading-trim: NONE;
     line-height: 117%;
     letter-spacing: 0%;
     margin-bottom: 60px;
@@ -120,6 +119,12 @@
 
 .blog_section_p_stylized {
     margin-bottom: 20px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 117%;
+    letter-spacing: 0%;
 }
 
 .blog_section4_li {
@@ -145,7 +150,6 @@
 
 .blog_section5_main_text {
     display: flex;
-    align-items: center;
     justify-content: space-between;
     gap: 39px;
     margin-top: 31px;
@@ -157,6 +161,19 @@
     letter-spacing: 0%;
 }
 
-.blog_section5_article{
+.blog_section5_li {
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
 
+.blog_section6 {
+    margin-top: 60px;
+}
+
+.blog_section7{
+    margin-top: 60px;
+}
+
+.blog_section7_div{
+    
 }
