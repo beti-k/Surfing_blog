@@ -92,7 +92,7 @@
     margin-top: 120px;
 }
 
-.blog_section3_img_caption {
+.blog_section_img_caption {
     margin-top: 10px;
     font-family: "DM Sans", sans-serif;
     font-weight: 400;
@@ -170,10 +170,15 @@
     margin-top: 60px;
 }
 
-.blog_section7{
+.blog_section7 {
     margin-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 54px;
 }
 
-.blog_section7_div{
-    
-}
+
+
+
+
