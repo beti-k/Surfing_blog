@@ -178,7 +178,24 @@
     gap: 54px;
 }
 
+.blog_articles_section {
+    margin-top: 130px;
+}
 
+.blog_articles_section {
+    margin-top: 60px;
+}
 
+.blog_articles_section_img {
+    width: 420px;
+    height: 355px;
+    opacity: 1;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
+.blog_articles_section_figcaption{
+
+}
 
 
